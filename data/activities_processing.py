@@ -26,6 +26,7 @@ garmin_processed.rename(columns={'Date': 'Datetime'}, inplace=True)
 # separate the date and time
 garmin_processed['Date'] = pd.to_datetime(garmin_processed['Datetime'], format='%Y-%m-%d %H:%M:%S').dt.date
 garmin_processed['Time'] = pd.to_datetime(garmin_processed['Datetime'], format='%Y-%m-%d %H:%M:%S').dt.time
+# This should be changed
 garmin_processed['Avg Pace'] = pd.to_datetime(garmin_processed['Avg Pace'], format='%M:%S').dt.time
 
 garmin_processed.drop(columns=[
