@@ -7,7 +7,10 @@ import plotly.express as px
 data = pd.read_csv('../data/activities/processed/Activities_Garmin.csv')
 # data filter if Avg HR > 0
 data = data[data['Avg HR'] > 0]
+data['Avg Pace'] = pd.to_datetime(data['Avg Pace'])
 
+
+data.dtypes
 
 # %% Header
 # --------------------

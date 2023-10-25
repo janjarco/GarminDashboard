@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2021-09-13T06:21:29Z</time>
+ </metadata>
+ <trk>
+  <name>Morning Run</name>
+  <type>running</type>
+  <trkseg>
+   <trkpt lat="52.2489790" lon="21.0281330">
+    <ele>83.7</ele>
+    <time>2021-09-13T06:21:29Z</time>
+   </trkpt>
+   <trkpt lat="52.2486980" lon="21.0276990">
+    <ele>84.0</ele>
+    <time>2021-09-13T06:21:49Z</time>
+   </trkpt>
+   <trkpt lat="52.2486900" lon="21.0276380">
+    <ele>84.0</ele>
+    <time>2021-09-13T06:21:51Z</time>
+   </trkpt>
+   <trkpt lat="52.2552390" lon="21.0276510">
+    <ele>83.8</ele>
+    <time>2021-09-13T06:27:12Z</time>
+   </trkpt>
+   <trkpt lat="52.2552720" lon="21.0277210">
+    <ele>83.8</ele>
+    <time>2021-09-13T06:27:14Z</time>
+   </trkpt>
+   <trkpt lat="52.2552650" lon="21.0276610">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:15Z</time>
+   </trkpt>
+   <trkpt lat="52.2552650" lon="21.0276390">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:16Z</time>
+   </trkpt>
+   <trkpt lat="52.2552780" lon="21.0275400">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:18Z</time>
+   </trkpt>
+   <trkpt lat="52.2553000" lon="21.0272680">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:34Z</time>
+   </trkpt>
+   <trkpt lat="52.2553050" lon="21.0272460">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:35Z</time>
+   </trkpt>
+   <trkpt lat="52.2553140" lon="21.0272290">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:36Z</time>
+   </trkpt>
+   <trkpt lat="52.2553240" lon="21.0271640">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:37Z</time>
+   </trkpt>
+   <trkpt lat="52.2553260" lon="21.0271350">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:38Z</time>
+   </trkpt>
+   <trkpt lat="52.2553210" lon="21.0270670">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:39Z</time>
+   </trkpt>
+   <trkpt lat="52.2553110" lon="21.0270060">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:40Z</time>
+   </trkpt>
+   <trkpt lat="52.2552780" lon="21.0269740">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:42Z</time>
+   </trkpt>
+   <trkpt lat="52.2552410" lon="21.0269740">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:27:43Z</time>
+   </trkpt>
+   <trkpt lat="52.2552060" lon="21.0269980">
+    <ele>83.8</ele>
+    <time>2021-09-13T06:27:44Z</time>
+   </trkpt>
+   <trkpt lat="52.2551510" lon="21.0270410">
+    <ele>83.8</ele>
+    <time>2021-09-13T06:27:45Z</time>
+   </trkpt>
+   <trkpt lat="52.2551140" lon="21.0270910">
+    <ele>83.8</ele>
+    <time>2021-09-13T06:27:47Z</time>
+   </trkpt>
+   <trkpt lat="52.2550780" lon="21.0271330">
+    <ele>83.7</ele>
+    <time>2021-09-13T06:27:48Z</time>
+   </trkpt>
+   <trkpt lat="52.2550480" lon="21.0271600">
+    <ele>83.7</ele>
+    <time>2021-09-13T06:27:49Z</time>
+   </trkpt>
+   <trkpt lat="52.2549990" lon="21.0272100">
+    <ele>83.7</ele>
+    <time>2021-09-13T06:27:51Z</time>
+   </trkpt>
+   <trkpt lat="52.2493970" lon="21.0283860">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:33:35Z</time>
+   </trkpt>
+   <trkpt lat="52.2492850" lon="21.0284480">
+    <ele>83.9</ele>
+    <time>2021-09-13T06:33:37Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
