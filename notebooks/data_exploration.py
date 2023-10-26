@@ -19,4 +19,12 @@ fig = px.scatter(garmin_df, x="Avg HR", y="Avg Pace", color="Activity Type")
 fig.show()
 
 
+
+# %%
+# show a histogram of Avg HR by date of run
+# use plotly express
+fig = px.histogram(garmin_df, x="Date", y="Avg HR", color="Activity Type", marginal="rug")
+fig.show()
+
+# :)))))
 # %%
