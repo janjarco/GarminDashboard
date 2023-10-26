@@ -28,3 +28,14 @@ fig.show()
 
 # :)))))
 # %%
+
+#
+# 
+# 
+# 
+# 
+#  create a line plot of Avg HR by date of run
+# use plotly express
+fig = px.line(garmin_df, x="Date", y="Avg HR", color="Activity Type")
+fig.show()
+# %%
